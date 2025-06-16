@@ -1,0 +1,28 @@
+            <div class="grid grid-cols-2 md:grid-cols-5 gap-4">
+                <img src="https://via.placeholder.com/150" alt="University 1 Logo" class="object-contain h-24 mx-auto">
+                <img src="https://via.placeholder.com/150" alt="University 2 Logo" class="object-contain h-24 mx-auto">
+                <img src="https://via.placeholder.com/150" alt="University 3 Logo" class="object-contain h-24 mx-auto">
+                <img src="https://via.placeholder.com/150" alt="University 4 Logo" class="object-contain h-24 mx-auto">
+                <img src="https://via.placeholder.com/150" alt="University 5 Logo" class="object-contain h-24 mx-auto">
+                <img src="https://via.placeholder.com/150" alt="University 6 Logo" class="object-contain h-24 mx-auto">
+                <img src="https://via.placeholder.com/150" alt="University 7 Logo" class="object-contain h-24 mx-auto">
+                <img src="https://via.placeholder.com/150" alt="University 8 Logo" class="object-contain h-24 mx-auto">
+                <img src="https://via.placeholder.com/150" alt="University 9 Logo" class="object-contain h-24 mx-auto">
+                <img src="https://via.placeholder.com/150" alt="University 10 Logo" class="object-contain h-24 mx-auto">
+            </div>
+        </section>
+        <section class="my-8">
+            <h2 class="text-2xl font-semibold mb-4">Social Media Statistics</h2>
+            <ul class="list-disc pl-5 text-gray-700">
+                <li>Followers on Twitter: <strong>10,000</strong></li>
+                <li>Followers on Facebook: <strong>8,500</strong></li>
+                <li>LinkedIn Network Size: <strong>5,000</strong></li>
+                <li>Instagram Followers: <strong>7,200</strong></li>
+            </ul>
+        </section>
+    </main>
+    <footer class="bg-blue-600 text-white text-center p-4">
+        <p>&copy; 2023 Micro Information Technology Services. All rights reserved.</p>
+    </footer>
+</body>
+</html>
